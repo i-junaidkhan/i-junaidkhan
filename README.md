@@ -25,9 +25,9 @@ Machine Learning Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/i-junaidkhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-junaidkhan&stroke=ef4444&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/i-junaidkhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-junaidkhan&stroke=3382ed&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/i-junaidkhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-junaidkhan&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/i-junaidkhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-junaidkhan&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
