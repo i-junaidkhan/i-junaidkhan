@@ -3,7 +3,7 @@ Hi 👋 My name is JUNAID AHMAD KHAN
 
 ### 📖   About Me 
 
-* I am a dedicated researcher with a strong passion for ***cryptography***, specializing in code-based post-quantum cryptography. My expertise also extends to the utilization of machine and deep learning techniques to design and implement intrusion detection systems specifically tailored for automotive use cases.
+* I am a dedicated researcher with a strong passion for ***cryptography***, specializing in ***code-based post-quantum cryptography***. My expertise also extends to the utilization of ***machine and deep learning techniques to design and implement intrusion detection systems specifically tailored for automotive use cases***.
 
 * 💻  Machine Learning Engineer
 * 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Information and Communication Engineering 𝚊𝚝 𝚝𝚑𝚎 Dongguk University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 Feburay 𝟸0𝟸𝟺
