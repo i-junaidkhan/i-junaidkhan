@@ -30,9 +30,9 @@ Hi 👋 My name is JUNAID AHMAD KHAN
 
 <p align="left"> <a href="https://www.github.com/i-junaidkhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+
+### My GitHub Stats
 
 <a href="http://www.github.com/i-junaidkhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-junaidkhan&stroke=3382ed&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
