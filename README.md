@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Information and Communication Engineering 𝚊𝚝 𝚝𝚑𝚎 Dongguk University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 Feburay 𝟸0𝟸𝟺
 * ✉️  You can contact me at [ijunaidkhan6@gmail.com](mailto:ijunaidkhan6@gmail.com)
 
-🎯   What I'm up to
+### 🎯   What I'm up to
 
 * 🚀  I'm currently working on [Intrusion detection systems specifically tailored for automotive use cases](http://scholar.google.com/citations?user=5_l3CDAAAAAJ&hl=en)
 * 🧠  I'm learning Code-based Post Quantum Cryptography (PQC)
@@ -33,6 +33,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://github.com/i-junaidkhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-junaidkhan&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
