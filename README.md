@@ -7,6 +7,8 @@ Hi 👋 My name is JUNAID AHMAD KHAN
 
 * 💻  Machine Learning Engineer
 * 🎓  𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Information and Communication Engineering 𝚊𝚝 𝚝𝚑𝚎 Dongguk University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 Feburay 𝟸0𝟸𝟺
+###  📫 How to reach me?
+
 * ✉️  You can contact me at [ijunaidkhan6@gmail.com](mailto:ijunaidkhan6@gmail.com)
 
 ### 🎯   What I'm up to
@@ -16,6 +18,7 @@ Hi 👋 My name is JUNAID AHMAD KHAN
 * 🤝  I'm open to collaborating on Automotive IDS, code based PQC
 
 ### Languages and tools
+
 
 
 <p align="left">
