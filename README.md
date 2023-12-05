@@ -2,9 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 📖    About Me 
--------------------------
+
 * 💻  Machine Learning Engineer
+* 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Information and Communication Engineering 𝚊𝚝 𝚝𝚑𝚎 Dongguk University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 Feburay 𝟸0𝟸𝟺
 * ✉️  You can contact me at [ijunaidkhan6@gmail.com](mailto:ijunaidkhan6@gmail.com)
+
+  𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+  -------------------------
 * 🚀  I'm currently working on [Intrusion detection systems specifically tailored for automotive use cases](http://scholar.google.com/citations?user=5_l3CDAAAAAJ&hl=en)
 * 🧠  I'm learning Code-based Post Quantum Cryptography (PQC)
 * 🤝  I'm open to collaborating on Automotive IDS, code based PQC
