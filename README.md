@@ -1,12 +1,11 @@
 # Junaid Khan / README.md
 [🌐](https://i-junaidkhan.github.io) **My Website** · [💼](https://www.linkedin.com/in/i-junaid-khan/) **LinkedIn** ·
 
-Hi, I'm a [Your Title] passionate about [Your Expertise].
+Hi, I'm a AI research scientist and LLM developer.
 
 ## Projects
-**Your Best Project**: Brief description with impact metrics if any.  
-**Another Project**: What it does and why it matters.  
-**Project Three**: Key features or technologies used.
+**LLM-Course**: A list of resources to develop and modify LLMs.  
+
 
 ## About
 📍 Your Location  
