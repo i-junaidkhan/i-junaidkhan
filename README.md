@@ -9,7 +9,9 @@ Hi, I'm a AI research scientist and LLM developer.
 
 ## Projects
 **[LLM-Course**](https://github.com/i-junaidkhan/LLM-course): A list of resources to develop and modify LLMs. 
+
 **[RAG-Course**](https://github.com/i-junaidkhan/RAG-course): A list of resources to develop and modify RAG.
+
 **Post-Transformer Architecture**: A list of resources to develop and modify Tranformer architecture.
 
 
