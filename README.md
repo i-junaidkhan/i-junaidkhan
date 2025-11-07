@@ -9,7 +9,7 @@ Hi, I'm a AI research scientist and LLM developer.
 
 ## Projects
 **LLM-Course**: A list of resources to develop and modify LLMs.  
-**Post-Transformer Architecture**: A list of resources to develop and modify LLMs.
+**Post-Transformer Architecture**: A list of resources to develop and modify Tranformer architecture.
 
 
 ## About
