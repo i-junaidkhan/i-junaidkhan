@@ -21,5 +21,4 @@ Hi, I'm a AI research scientist and LLM developer.
 
 ---
 
-### Pinned Repositories
-*(These appear automatically below this section)*
+
