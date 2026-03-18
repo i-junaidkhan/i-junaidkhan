@@ -5,7 +5,7 @@
 
 
 
-Hi, I'm a AI research scientist and LLM developer.
+Hi, I'm an AI research scientist and LLM developer.
 
 ## Projects
 * [**LLM Course**](https://github.com/i-junaidkhan/LLM-course): A list of resources to develop and modify LLMs. 
