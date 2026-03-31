@@ -16,6 +16,14 @@ Hi, I'm an AI research scientist and LLM developer who builds **voice‑first ag
 
 ## 🔥 Featured Projects
 
+### 🧠 [CogniFlow – AI Research Platform](https://github.com/i-junaidkhan/Notebook_LLM)
+> *Mind maps, podcast generator, Korean i18n, full‑text + semantic search*  
+A privacy‑first research platform built on Open Notebook. **AI‑powered mind maps** (hierarchical with dagre layout), **podcast generator** (multi‑language), and **agentic workflows** for research synthesis.  
+- ✅ One‑click mind map generation from sources (LangGraph + Ollama/OpenAI)  
+- ✅ Bilingual UI (English / Korean)  
+- ✅ Background ingestion: PDFs, YouTube, web articles, audio/video  
+- ✅ Custom transformation patterns & cited semantic search  
+
 ### 🎙️ [AI Voice Assistant with Ollama & FastAPI](https://github.com/i-junaidkhan/ai-voice-assistant-ollama)
 > *Wake word, conversation memory, app control, REST API, Docker*  
 A local, privacy‑first voice assistant that uses **Ollama (Mistral 7B)** for LLM inference, **speech recognition** for input, and **text‑to‑speech** for output.  
